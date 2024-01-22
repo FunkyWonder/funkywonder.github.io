@@ -17,4 +17,5 @@ module.exports = {
     loader: 'imgix',
     path: 'nate-925955698.imgix.net',
   },
+  output: 'export',
 }
